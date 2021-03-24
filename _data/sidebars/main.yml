@@ -2,7 +2,7 @@ subitems:
   - title: About  
     subitems:
       - title: Overview
-        url: about.html
+        url: /about.html
       - title: People
         url: /people.html
       - title: Contributors
