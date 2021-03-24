@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FAIRDOM welcomes our new partner - The Digital Salmon
-image: /images/news/digisal.png
+image: images/news/digisal.png
 ---
 
 

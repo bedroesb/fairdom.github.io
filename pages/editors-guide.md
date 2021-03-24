@@ -44,7 +44,7 @@ The front-matter for News could look like
 ---
 title: This is the news
 date: 2020-02-16
-image: "/asserts/images/news/elixir-logo.png"
+image: "/assertsimages/news/elixir-logo.png"
 ---
 ```
 
