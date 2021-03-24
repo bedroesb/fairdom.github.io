@@ -1,5 +1,4 @@
 ---
-layout: frontpage
 title: testing heading size
 ---
 
